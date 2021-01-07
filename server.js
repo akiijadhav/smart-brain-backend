@@ -26,7 +26,6 @@ const db = knex({
     }
 });
 
-
 // checking if all data is there
 // db.select('*').from('users').then(data => {
 //     console.log(data);
